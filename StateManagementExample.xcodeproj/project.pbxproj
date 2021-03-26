@@ -11,6 +11,7 @@
 		891CABCD260D43590096A40E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 891CABCC260D43590096A40E /* ContentView.swift */; };
 		891CABCF260D435A0096A40E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 891CABCE260D435A0096A40E /* Assets.xcassets */; };
 		891CABD2260D435A0096A40E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 891CABD1260D435A0096A40E /* Preview Assets.xcassets */; };
+		891CABDC260D45050096A40E /* Second StateScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 891CABDB260D45050096A40E /* Second StateScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		891CABCE260D435A0096A40E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		891CABD1260D435A0096A40E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		891CABD3260D435A0096A40E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		891CABDB260D45050096A40E /* Second StateScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Second StateScreen.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				891CABCE260D435A0096A40E /* Assets.xcassets */,
 				891CABD3260D435A0096A40E /* Info.plist */,
 				891CABD0260D435A0096A40E /* Preview Content */,
+				891CABDB260D45050096A40E /* Second StateScreen.swift */,
 			);
 			path = StateManagementExample;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				891CABDC260D45050096A40E /* Second StateScreen.swift in Sources */,
 				891CABCD260D43590096A40E /* ContentView.swift in Sources */,
 				891CABCB260D43590096A40E /* StateManagementExampleApp.swift in Sources */,
 			);
